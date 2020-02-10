@@ -1,5 +1,8 @@
 # Persona-Scenarios
-## Scenarios and Journey Map
+
+### Persona and Empathy Maps
+
+### Scenarios and Journey Maps
 
 ### Shu Li
 
