@@ -1,4 +1,6 @@
-# Persona-Scenarios
+# Persona-Scenarios - OutWrite Magazine Target Users
+
+### DH150 Assignment05: Persona-Scenarios by Naomi Deng
 
 ### Persona and Empathy Maps
 
