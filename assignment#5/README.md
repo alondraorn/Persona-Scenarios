@@ -12,6 +12,22 @@
 
 ![shu li](https://user-images.githubusercontent.com/59623164/74213270-47433100-4c4d-11ea-8efd-390406085ce1.jpeg)
 
+- Jack Wang, Persona
+
+![2](https://user-images.githubusercontent.com/59623164/74213331-85405500-4c4d-11ea-92c3-ffd7f800e184.png)
+
+- Jack Wang, Empathy Map
+
+![Jack want](https://user-images.githubusercontent.com/59623164/74213347-9a1ce880-4c4d-11ea-9337-07b5086cdafb.jpeg)
+
+- Tim Benson, Persona
+
+![3](https://user-images.githubusercontent.com/59623164/74213368-b28d0300-4c4d-11ea-8691-e5908d2d99d8.png)
+
+- Tim Benson, Empathy Map
+
+![Tim Benson](https://user-images.githubusercontent.com/59623164/74213378-c3d60f80-4c4d-11ea-9411-c87ed1d55acd.jpeg)
+
 ### Scenarios and Journey Maps
 
 ### Shu Li's Scenario
