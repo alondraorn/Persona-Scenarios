@@ -38,4 +38,24 @@
 
 Shu Li's Journey Map
 
-insert photo here
+link
+
+### Jack Wang's Scenario
+
+- sdkjf
+
+- sdkjhf
+
+Jack Want's Journey Map
+
+![Knowledge Gaps copy 2](https://user-images.githubusercontent.com/59623164/74213499-5c6c8f80-4c4e-11ea-99ab-01f9b0138b9c.png)
+
+### Tim Benson's Scenario 
+
+- sdknf
+
+- sdjfb
+
+Tim Benson's Journey Map
+
+link
