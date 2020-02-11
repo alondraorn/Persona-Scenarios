@@ -1,4 +1,4 @@
-# Persona-Scenarios - OutWrite Magazine Target Users
+# Persona and Scenarios - OutWrite Magazine Target Users
 
 ### DH150 Assignment05: Persona-Scenarios by Naomi Deng
 
