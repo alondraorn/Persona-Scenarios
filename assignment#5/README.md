@@ -48,7 +48,7 @@ link
 
 - Then, Jack clicks the Logo and successfully found the search bar. He enters “Transgender” and the website automatically summarizes all the content with the word in it. He finds a few articles about the community and also a few articles his son wrote. As he’s reading them, Jack has a better understanding of his son’s decision, feelings (from his son’s article) and the community. 
 
-Jack Want's Journey Map
+- Jack Want's Journey Map
 
 ![Knowledge Gaps copy 2](https://user-images.githubusercontent.com/59623164/74213499-5c6c8f80-4c4e-11ea-99ab-01f9b0138b9c.png)
 
