@@ -4,9 +4,13 @@
 
 ### Persona and Empathy Maps
 
-- Shu Li
+- Shu Li, Persona
 
 ![1](https://user-images.githubusercontent.com/59623164/74213187-fdf2e180-4c4c-11ea-8740-87e4dd5d6ba1.png)
+
+- Shu Li, Empathy Map
+
+
 
 ### Scenarios and Journey Maps
 
