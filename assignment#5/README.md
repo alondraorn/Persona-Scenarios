@@ -42,9 +42,11 @@ link
 
 ### Jack Wang's Scenario
 
-- sdkjf
+- Jack Wang, a middle-aged Chinese restaurant owner is sitting in front of the computer. Jack immigrated to the United States when he was in his 20s, with his wife, Cindy. Recently, there’s one thing that keeps bothering him – his son decided to transition to a woman. That night when his son confessed to him, was also the first time he had heard the word “transgender.” “I don’t feel like myself anymore, in this body” his son, Kevin says, “so I am going to change.” Jack is furious, as he could never understand what his son meant. Since he’s stayed in the U.S. for a long time, he understands homosexuality, yet he doesn’t believe that people can feel misplaced in their original sex. He refused to speak to his son, while his wife told him to go on the website of his son’s campus organization to learn more about the community and try to understand and reconnect with his son. 
 
-- sdkjhf
+- He types in OutWrite slowly, and presses enter. He sees the website and feels confused and overwhelmed because he doesn’t know what to do. The website has a lot of sections, yet he doesn’t have much time to go through one by one. He then scrolls down to the bottom of the page and quickly skims through the words, then he sees a “Help” section on the bottom left corner. He hovers his mouse to the word and then he clicks to check out the page. The website takes Jack to a distinctive page with a hyper-linked “About”, followed by a website user manual. He reads through the manual and understands what each section includes. For example, “Print Editions” is the general look of the printed magazine issues from previous years; “Opinion” and “Creative Writing” are original content written by students including his trans daughter. The “Help” page tells him that he could also use the search bar on the right top corner of the home page to search content he like, and he can click the “OutWrite, Est.1979” logo to go back to the home page. 
+
+- Then, Jack clicks the Logo and successfully found the search bar. He enters “Transgender” and the website automatically summarizes all the content with the word in it. He finds a few articles about the community and also a few articles his son wrote. As he’s reading them, Jack has a better understanding of his son’s decision, feelings (from his son’s article) and the community. 
 
 Jack Want's Journey Map
 
