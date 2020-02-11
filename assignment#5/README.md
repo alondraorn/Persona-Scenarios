@@ -36,8 +36,6 @@
 
 - She sits in the library and starts browsing using Safari. She goes on to the website and goes directly to the international resources section on the Home bar. Under that section, there are sub-sections like films, music, and news where she finds information about her interest. She reads a few pieces of news and finds that the information is really valuable. Shu then exits the international tab as he wants to find some outside resources. She then returns to the home page by clicking on the “OutWrite” logo and sees “Community” in the home bar. She hovers he mouse over the word, then she sees there are four sub-sections, among which there are off-campus resources and on-campus resources. She clicks on-campus resources which takes her to a separate page. Shu finds a few other organizations listed on the page and their locations, as well as the criteria for join these organizations. Shu feels relieved and happy as she has found ways to connect, get resources and join the LGBTQ community. 
 
-- Shu Li's Journey Map
-
 ![Knowledge Gaps copy](https://user-images.githubusercontent.com/59623164/74213604-df8de580-4c4e-11ea-9061-86017adc978e.png)
 
 ### Jack Wang's Scenario
@@ -48,16 +46,12 @@
 
 - Then, Jack clicks the Logo and successfully found the search bar. He enters “Transgender” and the website automatically summarizes all the content with the word in it. He finds a few articles about the community and also a few articles his son wrote. As he’s reading them, Jack has a better understanding of his son’s decision, feelings (from his son’s article) and the community. 
 
-- Jack Want's Journey Map
-
 ![Knowledge Gaps copy 2](https://user-images.githubusercontent.com/59623164/74213499-5c6c8f80-4c4e-11ea-99ab-01f9b0138b9c.png)
 
 ### Tim Benson's Scenario 
 
-- sdknf
+- Tim graduated from New York University with a Bachelor of Arts degree in Journalism, and he got hired by Los Angeles magazine. He recently just moved to Los Angeles and the editor-in-chief asked him to write a piece dedicated to the LGBTQ community. Inspired by his friends back in New York, Tim decides to write a piece about a comparison between the LGBTQ community in the New York University campus and that of the University of California university campus. He decides to regard these two universities as representatives of two cities on the East Coast and West Coast individually. Specifically, Tim wants to do an interview with students inside the community at UCLA campus and write content that truly reveals the resources and support they receive from campus and surroundings. By writing this piece, he hopes to raise awareness for the community and get to know in what ways he and other people can give them support. 
 
-- sdjfb
+- During his lunch break, Tim sits down in the cafeteria and opens his laptop. He goes on to Chrome and searches using the keywords “UCLA, LGBTQ, organization.” He finds the OutWrite website. Tim has two clear goals in his mind: he wants to learn something about the organization as well as find the right person to interview. It’s his first time browsing on the website; thus, he voluntarily starts to find the introduction and anything that could tell him something about the organization. He starts by browsing the home bar, and he quickly navigates to the word “About.” According to his previous knowledge on different websites, it should be an “About” page introducing the organization. He then clicks on the “About,” which takes him to a separate page. He waits for it to load, and after the web page fully reveals itself, he sees a website with two sections “Mission Statement” and “About.” He then reads through the paragraphs and determines that OutWrite is the right organization to interview with. Then he scrolls up to the main home bar and clicks “Contact Us,” where he narrows down to Editor-in-Chief, Martha, as his interviewee. 
 
-Tim Benson's Journey Map
-
-link
+![Knowledge Gaps](https://user-images.githubusercontent.com/59623164/74213766-8f635300-4c4f-11ea-952f-c589fe2f5ace.png)
