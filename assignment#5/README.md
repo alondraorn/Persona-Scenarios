@@ -36,9 +36,9 @@
 
 - She sits in the library and starts browsing using Safari. She goes on to the website and goes directly to the international resources section on the Home bar. Under that section, there are sub-sections like films, music, and news where she finds information about her interest. She reads a few pieces of news and finds that the information is really valuable. Shu then exits the international tab as he wants to find some outside resources. She then returns to the home page by clicking on the “OutWrite” logo and sees “Community” in the home bar. She hovers he mouse over the word, then she sees there are four sub-sections, among which there are off-campus resources and on-campus resources. She clicks on-campus resources which takes her to a separate page. Shu finds a few other organizations listed on the page and their locations, as well as the criteria for join these organizations. Shu feels relieved and happy as she has found ways to connect, get resources and join the LGBTQ community. 
 
-Shu Li's Journey Map
+- Shu Li's Journey Map
 
-link
+![Knowledge Gaps copy](https://user-images.githubusercontent.com/59623164/74213604-df8de580-4c4e-11ea-9061-86017adc978e.png)
 
 ### Jack Wang's Scenario
 
