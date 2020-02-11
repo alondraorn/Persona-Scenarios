@@ -10,7 +10,7 @@
 
 - Shu Li, Empathy Map
 
-
+![shu li](https://user-images.githubusercontent.com/59623164/74213270-47433100-4c4d-11ea-8efd-390406085ce1.jpeg)
 
 ### Scenarios and Journey Maps
 
