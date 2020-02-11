@@ -2,33 +2,33 @@
 
 ### DH150 Assignment05: Persona-Scenarios by Naomi Deng
 
-### Persona and Empathy Maps
+## Persona and Empathy Maps
 
-- Shu Li, Persona
+- Shu Li, Persona #1
 
 ![1](https://user-images.githubusercontent.com/59623164/74213187-fdf2e180-4c4c-11ea-8740-87e4dd5d6ba1.png)
 
-- Shu Li, Empathy Map
+- Shu Li, Empathy Map #1
 
 ![shu li](https://user-images.githubusercontent.com/59623164/74213270-47433100-4c4d-11ea-8efd-390406085ce1.jpeg)
 
-- Jack Wang, Persona
+- Jack Wang, Persona #2
 
 ![2](https://user-images.githubusercontent.com/59623164/74213331-85405500-4c4d-11ea-92c3-ffd7f800e184.png)
 
-- Jack Wang, Empathy Map
+- Jack Wang, Empathy Map #2
 
 ![Jack want](https://user-images.githubusercontent.com/59623164/74213347-9a1ce880-4c4d-11ea-9337-07b5086cdafb.jpeg)
 
-- Tim Benson, Persona
+- Tim Benson, Persona #3
 
 ![3](https://user-images.githubusercontent.com/59623164/74213368-b28d0300-4c4d-11ea-8691-e5908d2d99d8.png)
 
-- Tim Benson, Empathy Map
+- Tim Benson, Empathy Map #3
 
 ![Tim Benson](https://user-images.githubusercontent.com/59623164/74213378-c3d60f80-4c4d-11ea-9411-c87ed1d55acd.jpeg)
 
-### Scenarios and Journey Maps
+## Scenarios and Journey Maps
 
 ### Shu Li's Scenario
 
